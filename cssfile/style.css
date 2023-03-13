@@ -24,7 +24,10 @@ span a {
     color:#14213D;;
     text-decoration: none;
 }
-
+button{
+    box-shadow:3px 20px 20px 1px rgba(4, 9, 30, 0.5 / 40%);
+    cursor:pointer;
+}
 label{
     font-size: 1rem;
     color: black;
